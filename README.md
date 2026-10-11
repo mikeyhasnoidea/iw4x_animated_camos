@@ -1,6 +1,6 @@
 # IW4x Animated Camos
 
-Animated weapon camos for **Modern Warfare 2 (2009)** running on the [IW4x](https://github.com/iw4x/iw4x-client) community client. The stock game has no animated camos. This adds a small client module that plays looping animations on the four classic camos, plus a browser tool so anyone can make their own from a GIF.
+Animated weapon camos for **Modern Warfare 2 (2009)** running on the [IW4x](https://github.com/iw4x/iw4x-client) community client. The stock game has no animated camos. This adds a small client module that plays looping animations on the classic camos, plus a browser tool so anyone can make their own from a GIF.
 
 > **Offline / private-match use.** This is a cosmetic, client-side change. It is not meant for public servers, and a modified `iw4x.dll` may not be welcome there. You need your own legitimate copy of the game. This repo contains no game files.
 
