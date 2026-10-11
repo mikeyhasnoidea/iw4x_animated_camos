@@ -6,7 +6,7 @@ Animated weapon camos for **Modern Warfare 2 (2009)** running on the [IW4x](http
 
 ## What you get
 
-- **A one-file installer** for players (Inno Setup). It backs up your original `iw4x.dll` and the uninstaller restores it.
+- **A one-file installer** for players. It backs up your original `iw4x.dll` and the uninstaller restores it.
 - **Camo Maker** (`camo-maker/index.html`): drop in a GIF, several pictures, or one picture with a scroll/colour-cycle effect, preview how it tiles on a gun, and download the file the mod reads. Runs entirely in your browser, nothing is uploaded.
 
 ## Install 
@@ -14,7 +14,6 @@ Animated weapon camos for **Modern Warfare 2 (2009)** running on the [IW4x](http
 1. Download `AnimatedCamosSetup.exe` from the [Releases](../../releases) page.
 2. Run it and pick your IW4x folder (the one containing `iw4x.exe`).
 3. **Start the game by running `iw4x.exe` directly.** The IW4x launcher can replace the modified `iw4x.dll` with the stock one. If that happens, run the installer again.
-4. Equip Red Tiger, Blue Tiger, Woodland or Digital on a weapon. Only you see it.
 
 Uninstall from Windows "Installed apps"; your original `iw4x.dll` is restored.
 
