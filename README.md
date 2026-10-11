@@ -6,7 +6,6 @@ Animated weapon camos for **Modern Warfare 2 (2009)** running on the [IW4x](http
 
 ## What you get
 
-- **Animated Red Tiger, Blue Tiger, Woodland and Digital camos** (gold tiger stripes, drifting neon grid, flowing lava, hopping toxic pixels). Each loops seamlessly.
 - **A one-file installer** for players (Inno Setup). It backs up your original `iw4x.dll` and the uninstaller restores it.
 - **Camo Maker** (`camo-maker/index.html`): drop in a GIF, several pictures, or one picture with a scroll/colour-cycle effect, preview how it tiles on a gun, and download the file the mod reads. Runs entirely in your browser, nothing is uploaded.
 
