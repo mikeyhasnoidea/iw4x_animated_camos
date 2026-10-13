@@ -98,7 +98,6 @@ docs/HOW_TO_BUILD.txt     Build guide
 
 - Prebuilt DLL matches IW4x r5154 only; other versions need a rebuild.
 - The IW4x launcher can overwrite the modified `iw4x.dll`.
-- Only the four classic camos are verified, and only in 128x128.
 - Gun camos only cover the parts of each gun that the game's own texture mask allows; this mod does not change that.
 - GIF import in Camo Maker needs Chrome or Edge (other browsers can use the several-pictures option).
 
